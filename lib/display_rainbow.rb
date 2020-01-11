@@ -2,7 +2,7 @@
 rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 def display_rainbow(arr)
-  "R: #{arr[0]}, O: #{arr[1]}, Y: #{arr[2]}, G: #{arr[3]}, B: #{arr[4]}, I: #{arr[5]}, V: #{arr[6]}"
+  puts "R: #{arr[0]}, O: #{arr[1]}, Y: #{arr[2]}, G: #{arr[3]}, B: #{arr[4]}, I: #{arr[5]}, V: #{arr[6]}"
 end
 #   puts "#{arr[0][0].upcase}: #{arr[0]}, #{arr[1][0].upcase}: #{arr[1]}, #{arr[2][0].upcase}: #{arr[2]}, #{arr[3][0].upcase}: #{arr[3]}, #{arr[4][0].upcase}: #{arr[4]}, #{arr[5][0].upcase}: #{arr[5]}, #{arr[6][0].upcase}: #{arr[6]}"
 # end
